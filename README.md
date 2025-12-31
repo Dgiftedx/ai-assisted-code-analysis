@@ -10,7 +10,7 @@ analyzing failure modes, hallucinations, and correctness risks.
 
 ## Implementation
 Active development and experiments are hosted on GitLab:
-➡️ https://gitlab.com/<your-username>
+➡️ https://gitlab.com/dgifted
 
 This repository serves as a public research index and experiment log.
 
